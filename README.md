@@ -15,7 +15,7 @@ To run the Snake game, you will need a C++ compiler that supports C++11 (or late
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/snake-game-cpp.git
+    git clone https://github.com/ElDEEB21/Snake-Game.git
     ```
 2. Compile the code using a C++ compiler:
     ```bash
