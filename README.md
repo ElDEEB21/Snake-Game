@@ -63,10 +63,6 @@ Contributions to this project are welcome. You can help by:
 
 Please feel free to fork the repository and submit pull requests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Enjoy the game and feel free to provide feedback or contribute to its development!
