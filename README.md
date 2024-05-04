@@ -19,7 +19,7 @@ To run the Snake game, you will need a C++ compiler that supports C++11 (or late
     ```
 2. Compile the code using a C++ compiler:
     ```bash
-    g++ -o SnakeGame main.cpp
+    g++ -o SnakeGame snake project.cpp
     ```
 3. Run the executable:
     ```bash
